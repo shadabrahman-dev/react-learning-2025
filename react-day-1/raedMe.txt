@@ -1,0 +1,23 @@
+✅ Q1: What is React?
+Answer:
+
+React is a JavaScript library used to build user interfaces, especially for single-page applications. It lets us create reusable components, so our code is clean and fast. It uses a Virtual DOM to update only necessary parts of the page, which improves performance.
+
+✅ Q2: Why do we use React?
+Answer:
+
+We use React to make fast and interactive web apps. It helps us break the UI into small parts (called components) that are easy to manage and reuse. It also supports data handling with states and gives a better user experience.
+
+✅ Q3: Is React a library or a framework? What is the difference?
+Answer:
+
+React is a library, not a framework.
+A library gives tools, but we decide how to use them.
+A framework controls the structure and gives strict rules to follow.
+React gives more freedom to choose other tools like routing or state management.
+
+✅ Summary Table for Interviewer:
+Question	Short Answer
+What is React?	JS library for building UI (SPA focused)
+Why use React?	Fast, reusable, clean UI, better UX
+Library vs Framework?	Library = flexible, Framework = strict
